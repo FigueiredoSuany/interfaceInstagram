@@ -1,8 +1,8 @@
 # Recriando a interface do Instagram
 
-## HTML CSS
+## #HTML #CSS
 
-Interface do Instagram, desenvolvida no VS CODE, utilizando HTML e CSS.
+Interface do Instagram, desenvolvida no VS Code, utilizando HTML e CSS.
 
 *Bootcamp Digital Inovation One*
 
